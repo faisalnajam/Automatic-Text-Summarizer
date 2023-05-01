@@ -23,7 +23,8 @@ Usage
 
 Video
 
-A demo of the project can be found in the Video file. The demo shows how to use the program to generate summaries for text files and visualize the results.
+A demo of the project can be found here: https://vimeo.com/822614988. 
+The demo shows how to use the program to generate summaries for text files and visualize the results.
 
 Data Used
 
